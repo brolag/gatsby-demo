@@ -31,16 +31,16 @@ module.exports = {
       resolve: "gatsby-source-wordpress",
       options: {
         // I have created a dummy site for us to use with the plugins we discussed
-        baseUrl: "gatsbypress.iamtimsmith.com",
+        baseUrl: "https://brolag.com",
         protocol: "https",
         hostingWPCOM: false,
         // We will be using some advanced custom fields
-        useACF: true,
+        useACF: false,
         acfOptionPageIds: [],
         verboseOutput: false,
         perPage: 100,
         searchAndReplaceContentUrls: {
-          sourceUrl: "https://gatsbypress.iamtimsmith.com",
+          sourceUrl: "https://https://brolag.com",
           replacementUrl: "https://localhost:8000",
         },
         // Set how many simultaneous requests are sent at once.
