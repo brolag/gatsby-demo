@@ -1,4 +1,8 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+Thanks to Tim Smith.
+https://github.com/iamtimsmith/building-a-blog-with-wordpress-and-gatsby
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
